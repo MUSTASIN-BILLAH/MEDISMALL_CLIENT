@@ -1,0 +1,20 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Shopping Cart Base (Green) -->
+  <rect x="10" y="16" width="44" height="32" rx="6" fill="#22C55E" />
+  
+  <!-- Cart Wheels -->
+  <circle cx="18" cy="54" r="5" fill="#16A34A" />
+  <circle cx="46" cy="54" r="5" fill="#16A34A" />
+  
+  <!-- Medical Cross (White, centered) -->
+  <!-- Horizontal bar -->
+  <rect x="22" y="29" width="20" height="6" fill="#FFFFFF" rx="1" />
+  <!-- Vertical bar -->
+  <rect x="29" y="22" width="6" height="20" fill="#FFFFFF" rx="1" />
+</svg>
