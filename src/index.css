@@ -1,12 +1,22 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
- /* google fonts */
+ /* google fonts roboto-slab*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+ /* google fonts Playwrite HU*/
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
 
 .font-roboto-slab {
   font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: 400;
+  font-style: normal;
+}
+
+.font-playwrite-hu {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  
   font-style: normal;
 }

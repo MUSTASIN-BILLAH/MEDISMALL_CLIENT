@@ -56,7 +56,7 @@ const Banner = () => {
                     autoStart: true,
                     loop: true,
                     delay: 15,
-                    deleteSpeed: 25,
+                    deleteSpeed: 30,
                     pauseFor: 4000,
                     
                   }}
